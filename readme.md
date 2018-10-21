@@ -5,6 +5,8 @@ A bot that uses Selenium and controls mouse movements in OS X to automatically l
 
 `pip install pyobjc-framework-Quartz`
 
+`pip install pyautogui`
+
 # I am using Firefox when running this.
 
 `python2.7 instabot.py`
