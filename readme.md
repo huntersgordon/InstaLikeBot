@@ -1,11 +1,11 @@
 # InstaLikeBot
 A bot that uses Selenium and controls mouse movements in OS X to automatically like Instagram pictures.
 
-`pip install selenium`
+`sudo pip install selenium`
 
-`pip install pyobjc-framework-Quartz`
+`sudo pip install pyobjc-framework-Quartz`
 
-`pip install pyautogui`
+`sudo pip install pyautogui`
 
 # I am using Firefox when running this.
 
@@ -13,4 +13,4 @@ A bot that uses Selenium and controls mouse movements in OS X to automatically l
 
 Then you have about 10 seconds to log in to your Instagram account.
 
-Happy botting! Please leave a ⭐️!
+Please leave a ⭐️!
