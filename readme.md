@@ -1,4 +1,4 @@
-# InstaLikeBot
+# InstaBotServer
 A bot that uses Selenium and controls mouse movements in OS X to automatically like Instagram pictures.
 
 `sudo pip install selenium`
